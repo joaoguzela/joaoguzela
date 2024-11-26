@@ -1,6 +1,6 @@
 # Olá, sou João Guzela 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, com ênfase em **JavaScript**, **TypeScript**, **Node.js**, **React**, **DevOps** e **Segurança da Informação**. Atualmente, estou focado em expandir meus conhecimentos na área de **infraestrutura como código (IaC)**, utilizando **Terraform** e outras ferramentas.
+Sou um desenvolvedor apaixonado por tecnologia, com ênfase em **JavaScript**, **TypeScript**, **Node.js**, **React**, **DevOps** e **Segurança da Informação**.
 
 ## 🚀 Skills
 
