@@ -32,4 +32,4 @@ Sou um desenvolvedor apaixonado por tecnologia, com ênfase em **JavaScript**, *
 - [LinkedIn](https://www.linkedin.com/in/joao-guzela/)
 
 ## 📧 Contato:
-Se você tiver alguma dúvida ou quiser conversar sobre tecnologia, me mande uma mensagem no [LinkedIn](https://www.linkedin.com/in/joao-guzela/) ou envie um e-mail para **joao.guzela@example.com**.
+Se você tiver alguma dúvida ou quiser conversar sobre tecnologia, me mande uma mensagem no [LinkedIn](https://www.linkedin.com/in/joao-guzela/) ou envie um e-mail para **joao.guzela@gmail.com**.
